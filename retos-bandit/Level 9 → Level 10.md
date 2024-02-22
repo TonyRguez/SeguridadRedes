@@ -9,6 +9,10 @@ bandit9@bandit:~$ ls
 data.txt
 bandit9@bandit:~$ strings data.txt
 bandit9@bandit:~$ strings data.txt | grep "=="
+x]T========== theG)"
+========== passwordk^
+========== is
+========== G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 ```
 # Notas
 - strings. Extrae las cadenas de un archivo binario
