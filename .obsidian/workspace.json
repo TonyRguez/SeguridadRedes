@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-web/Scavenger Hunt.md",
+                "file": "Forensic/shark on wire 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-web/Scavenger Hunt.md",
+                "file": "Forensic/shark on wire 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-web/Scavenger Hunt.md",
+                "file": "Forensic/shark on wire 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-web/Scavenger Hunt.md"
+                "file": "Forensic/shark on wire 2.md"
               }
             }
           }
@@ -161,33 +161,49 @@
   },
   "active": "6488ea7819dc4cd8",
   "lastOpenFiles": [
-    "retos-web/GET aHEAD.md",
-    "retos-web/Scavenger Hunt.md",
+    "Forensic/whitepages.md",
+    "Forensic/m00nwalk.md",
+    "Forensic/c0rrupt.md",
+    "Forensic/shark on wire 2.md",
+    "Plantilla.md",
+    "Forensic/like1000.md",
+    "Forensic/wiresharkpaquetaxos.txt",
+    "Forensic/capture1.pcap",
+    "Forensic/capture.pcap.1",
+    "Forensic/996.tar",
+    "Forensic/997.tar",
+    "Forensic/998.tar",
+    "Forensic/999.tar",
+    "Forensic/1000.tar",
+    "Forensic/filler.txt",
+    "Plantilla1.md",
+    "Forensic/flag5.png",
+    "Forensic/flag4.png",
+    "Forensic/flag3png",
+    "Forensic/flag2.png",
+    "Forensic/what lies within.md",
+    "Forensic/image.jpg",
+    "Forensic/buildings.png",
+    "Forensic/So meta.md",
+    "Forensic/pico_img.png",
+    "Forensic/shark on wire 1.md",
+    "Forensic/extensions.md",
+    "Forensic/flag.png",
+    "Forensic/Glory of the Garden.md",
+    "Forensic/garden.jpg",
     "retos-web/Cookies.md",
+    "retos-web/Scavenger Hunt.md",
+    "retos-web/GET aHEAD.md",
     "retos-web/JaWT Scratchpad.md",
     "retos-web/Irish-Name-Repo 3.md",
-    "Plantilla.md",
     "retos-web/Irish-Name-Repo 1.md",
     "retos-web/Irish-Name-Repo 2.md",
     "retos-bandit/Level 0.md",
-    "retos-web",
-    "retos-bandit/Sin título",
     "retos-bandit/Level 32 → Level 33.md",
     "retos-bandit/Level 31 → Level 32.md",
     "retos-bandit/Level 30 → Level 31.md",
     "retos-bandit/Level 29 → Level 30.md",
     "retos-bandit/Level 28 → Level 29.md",
-    "retos-bandit/Level 27 → Level 28.md",
-    "retos-bandit/Level 26 → Level 27.md",
-    "retos-bandit/Prueba Obsidian.md",
-    "retos-bandit/Level 25 → Level 26.md",
-    "retos-bandit/Level 24 → Level 25.md",
-    "retos-bandit/Level 23 → Level 24.md",
-    "retos-bandit/Level 22 → Level 23.md",
-    "retos-bandit/Level 21 → Level 22.md",
-    "retos-bandit/Level 20 → Level 21.md",
-    "retos-bandit/Level 19 → Level 20.md",
-    "retos-bandit/Level 18 → Level 19.md",
-    "retos-bandit/Level 17 → Level 18.md"
+    "retos-bandit/Level 27 → Level 28.md"
   ]
 }
