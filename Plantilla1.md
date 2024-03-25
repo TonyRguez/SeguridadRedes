@@ -1,5 +1,5 @@
 # Objetivo
-# Datos de acceso
+
 # Solución
 ```
 ```
