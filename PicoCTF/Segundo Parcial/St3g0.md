@@ -10,4 +10,5 @@ b1,rgb,lsb,xy       .. text: "picoCTF{7h3r3_15_n0_5p00n_a9a181eb}$t3g0"
 ```
 # Notas
 - Usamos el comando zsteg para decodificar la imagen, al usar -a le decimos que intente con todos los métodos conocidos y usamos grep pico para filtrar y encontrar la bandera.
+- picoCTF{7h3r3_15_n0_5p00n_a9a181eb}
 # Referencia
