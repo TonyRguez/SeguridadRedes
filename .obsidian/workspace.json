@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos Crypto/Retos Crypto Parte 2/b00tl3gRSA2.md",
+                "file": "Retos Crypto/Retos Crypto Parte 3/Pixelated.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos Crypto/Retos Crypto Parte 2/b00tl3gRSA2.md",
+                "file": "Retos Crypto/Retos Crypto Parte 3/Pixelated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos Crypto/Retos Crypto Parte 2/b00tl3gRSA2.md",
+                "file": "Retos Crypto/Retos Crypto Parte 3/Pixelated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos Crypto/Retos Crypto Parte 2/b00tl3gRSA2.md"
+                "file": "Retos Crypto/Retos Crypto Parte 3/Pixelated.md"
               }
             }
           }
@@ -161,31 +161,40 @@
   },
   "active": "cacbdc0a51359f6e",
   "lastOpenFiles": [
+    "Retos Crypto/Retos Crypto Parte 3/nueva.png",
+    "Retos Crypto/Retos Crypto Parte 3/exp.py",
+    "Retos Crypto/Retos Crypto Parte 3/stegsolve.jar",
     "Plantilla1.md",
+    "Retos Crypto/Retos Crypto Parte 3/Pixelated.md",
+    "Plantilla.md",
+    "Retos Crypto/Retos Crypto Parte 3/basic-mod1.md",
+    "Retos Crypto/Retos Crypto Parte 3/HideToSee.md",
+    "Retos Crypto/Retos Crypto Parte 3/Mind your Ps and Qs.md",
+    "Retos Crypto/Retos Crypto Parte 3/ReadMyCert.md",
+    "Retos Crypto/Retos Crypto Parte 3/readmycert.csr",
+    "Retos Crypto/Retos Crypto Parte 3/scrambled2.png",
+    "Retos Crypto/Retos Crypto Parte 3/scrambled1.png",
+    "Retos Crypto/Retos Crypto Parte 3/encrypted.txt",
+    "Retos Crypto/Retos Crypto Parte 3/atbash.jpg",
+    "Retos Crypto/Retos Crypto Parte 3/exploit.py",
+    "Retos Crypto/Retos Crypto Parte 3/exploit",
+    "Retos Crypto/Retos Crypto Parte 3/message.txt",
+    "Retos Crypto/Retos Crypto Parte 3/values",
+    "Retos Crypto/Retos Crypto Parte 3/Unconfirmed 782925.crdownload",
     "Retos Crypto/Retos Crypto Parte 2/b00tl3gRSA2.md",
+    "Retos Crypto/Retos Crypto Parte 3",
     "Retos Crypto/13.md",
     "Retos Crypto/Retos Crypto Parte 2/miniRSA.md",
-    "Retos Crypto/Retos Crypto Parte 2/ciphertext",
     "Retos Crypto/Retos Crypto Parte 2/rsa-pop-quiz.md",
-    "Plantilla.md",
-    "Retos Crypto/Retos Crypto Parte 2",
     "Retos Crypto/Tapping.md",
     "Retos Crypto/La cifra de.md",
     "Retos Crypto/Easy 1.md",
     "Retos Crypto/caesar.md",
-    "Retos Crypto/table.txt",
-    "Retos Crypto/table.txt.crdownload",
-    "Retos Crypto/ciphertext",
-    "Retos Crypto/Unconfirmed 366001.crdownload",
     "Retos Crypto/The Numbers.md",
     "Retos Crypto/the_numbers.png",
     "Retos Crypto/waves over lambda.md",
     "PicoCTF/Segundo Parcial/St3g0.md",
-    "Sin título",
-    "Retos Crypto",
     "Forensic/Retos Crypto/the_numbers.png",
-    "Forensic/Retos Crypto/the_numbers.png.crdownload",
-    "Forensic/Retos Crypto",
     "Competencia/heap 1.md",
     "Competencia/heap 0.md",
     "Competencia/endiannes.md",
@@ -194,18 +203,9 @@
     "PicoCTF/Segundo Parcial/pico.flag.png",
     "PicoCTF/Segundo Parcial/Redaction Gone Wrong.md",
     "PicoCTF/Segundo Parcial/Packets Primer.md",
-    "PicoCTF/Segundo Parcial/Lookey Here.md",
-    "PicoCTF/Segundo Parcial/Enhance!.md",
     "PicoCTF/Segundo Parcial/drawing.flag.svg",
-    "PicoCTF/Segundo Parcial/Wireshark doo dooo do doo....md",
-    "PicoCTF/Segundo Parcial/information.md",
     "Forensic/Forensic parte 3/docProps/thumbnail.jpeg",
-    "Forensic/Forensic parte 3/Sin título.md",
-    "Forensic/Forensic parte 3/MacroHard WeakEdge.md",
     "Forensic/Forensic parte 3/tunn3l_v1s10n.bmp",
-    "Forensic/Forensic parte 3/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/_3_c.jpg.extracted/base_images/4_c.jpg",
-    "Forensic/Forensic parte 3/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/3_c.jpg",
-    "Forensic/Forensic parte 3/_dolls.jpg.extracted/base_images/2_c.jpg",
-    "Forensic/Forensic parte 3/dolls.jpg"
+    "Forensic/Forensic parte 3/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/_3_c.jpg.extracted/base_images/4_c.jpg"
   ]
 }
