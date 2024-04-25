@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Retos Crypto/Retos Crypto Parte 3/Pixelated.md",
+                "file": "Reversing/vault-door-5.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Retos Crypto/Retos Crypto Parte 3/Pixelated.md",
+                "file": "Reversing/vault-door-5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Retos Crypto/Retos Crypto Parte 3/Pixelated.md",
+                "file": "Reversing/vault-door-5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Retos Crypto/Retos Crypto Parte 3/Pixelated.md"
+                "file": "Reversing/vault-door-5.md"
               }
             }
           }
@@ -161,28 +161,36 @@
   },
   "active": "cacbdc0a51359f6e",
   "lastOpenFiles": [
-    "Retos Crypto/Retos Crypto Parte 3/nueva.png",
-    "Retos Crypto/Retos Crypto Parte 3/exp.py",
-    "Retos Crypto/Retos Crypto Parte 3/stegsolve.jar",
+    "Reversing/vault-door-4.md",
+    "Reversing/vault-door-5.md",
+    "Reversing/VaultDoor5.java",
+    "Reversing/vault-door-training.md",
     "Plantilla1.md",
-    "Retos Crypto/Retos Crypto Parte 3/Pixelated.md",
+    "Reversing/vault-door-3.md",
+    "Reversing/VaultDoor4.java",
+    "Reversing/VaultDoor3.java",
     "Plantilla.md",
+    "Reversing/vault-door-1.md",
+    "Reversing/labandera",
+    "Reversing/VaultDoor1.java",
+    "Reversing/VaultDoorTraining.java",
+    "Reversing/asm3.md",
+    "Reversing/test2.S",
+    "Reversing/test.S.1",
+    "Reversing/asm2.md",
+    "Reversing/test1.S",
+    "Reversing/asm1.md",
+    "Reversing/test.S",
+    "Retos Crypto/Retos Crypto Parte 3/Pixelated.md",
+    "Retos Crypto/Retos Crypto Parte 3/nueva.png",
     "Retos Crypto/Retos Crypto Parte 3/basic-mod1.md",
     "Retos Crypto/Retos Crypto Parte 3/HideToSee.md",
     "Retos Crypto/Retos Crypto Parte 3/Mind your Ps and Qs.md",
     "Retos Crypto/Retos Crypto Parte 3/ReadMyCert.md",
-    "Retos Crypto/Retos Crypto Parte 3/readmycert.csr",
     "Retos Crypto/Retos Crypto Parte 3/scrambled2.png",
     "Retos Crypto/Retos Crypto Parte 3/scrambled1.png",
-    "Retos Crypto/Retos Crypto Parte 3/encrypted.txt",
     "Retos Crypto/Retos Crypto Parte 3/atbash.jpg",
-    "Retos Crypto/Retos Crypto Parte 3/exploit.py",
-    "Retos Crypto/Retos Crypto Parte 3/exploit",
-    "Retos Crypto/Retos Crypto Parte 3/message.txt",
-    "Retos Crypto/Retos Crypto Parte 3/values",
-    "Retos Crypto/Retos Crypto Parte 3/Unconfirmed 782925.crdownload",
     "Retos Crypto/Retos Crypto Parte 2/b00tl3gRSA2.md",
-    "Retos Crypto/Retos Crypto Parte 3",
     "Retos Crypto/13.md",
     "Retos Crypto/Retos Crypto Parte 2/miniRSA.md",
     "Retos Crypto/Retos Crypto Parte 2/rsa-pop-quiz.md",
@@ -195,17 +203,9 @@
     "Retos Crypto/waves over lambda.md",
     "PicoCTF/Segundo Parcial/St3g0.md",
     "Forensic/Retos Crypto/the_numbers.png",
-    "Competencia/heap 1.md",
-    "Competencia/heap 0.md",
-    "Competencia/endiannes.md",
-    "Competencia/Binary Search.md",
-    "Competencia/dont-you-love-banners.md",
     "PicoCTF/Segundo Parcial/pico.flag.png",
-    "PicoCTF/Segundo Parcial/Redaction Gone Wrong.md",
-    "PicoCTF/Segundo Parcial/Packets Primer.md",
     "PicoCTF/Segundo Parcial/drawing.flag.svg",
     "Forensic/Forensic parte 3/docProps/thumbnail.jpeg",
-    "Forensic/Forensic parte 3/tunn3l_v1s10n.bmp",
-    "Forensic/Forensic parte 3/_dolls.jpg.extracted/base_images/_2_c.jpg.extracted/base_images/_3_c.jpg.extracted/base_images/4_c.jpg"
+    "Forensic/Forensic parte 3/tunn3l_v1s10n.bmp"
   ]
 }
