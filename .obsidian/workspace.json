@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28adde9fdd41c0e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Retos Crypto/waves over lambda.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cacbdc0a51359f6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reversing/Reversing Parte 3/Need For Speed.md",
+                "file": "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/GDB baby step 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reversing/Reversing Parte 3/Need For Speed.md",
+                "file": "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/GDB baby step 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reversing/Reversing Parte 3/Need For Speed.md",
+                "file": "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/GDB baby step 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reversing/Reversing Parte 3/Need For Speed.md"
+                "file": "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/GDB baby step 2.md"
               }
             }
           }
@@ -161,50 +148,51 @@
   },
   "active": "cacbdc0a51359f6e",
   "lastOpenFiles": [
-    "Reversing/Reversing Parte 3/reverse_cipher.md",
-    "Reversing/Reversing Parte 3/exploitcaracter.py",
-    "Reversing/Reversing Parte 3/flag.txt",
-    "Reversing/Reversing Parte 3/rev_this",
-    "Reversing/Reversing Parte 3/rev",
-    "Reversing/Reversing Parte 3/Need For Speed.md",
-    "Reversing/Reversing Parte 3/need-for-speed",
-    "Reversing/Reversing Parte 3/Safe Opener 2.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/debugger0_b",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/Unconfirmed 540588.crdownload",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/GDB baby step 1.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/debugger0_a",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/Unconfirmed 265750.crdownload",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/Bit-O-Asm-4.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/disassembler-dump0_d.txt",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/disassembler-dump0_d.txt.crdownload",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/crackme-py.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/Bit-O-Asm-3.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/disassembler-dump0_c.txt",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/disassembler-dump0_c.txt.crdownload",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/Bit-O-Asm-2.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/disassembler-dump0_b.txt",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/disassembler-dump0_b.txt.crdownload",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/Bit-O-Asm-1.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/disassembler-dump0_a.txt",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/ASCII FTW.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/keygenme-py.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/Transformation.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 2/GDB baby step 2.md",
     "Plantilla1.md",
     "Plantilla.md",
-    "Reversing/Reversing Parte 3/SafeOpener.class",
-    "Reversing/Reversing Parte 3/GDB Test Drive.md",
-    "Reversing/vault-door-5.md",
-    "Reversing/vault-door-4.md",
-    "Reversing/VaultDoor5.java",
-    "Reversing/vault-door-training.md",
-    "Reversing/vault-door-3.md",
-    "Reversing/VaultDoor4.java",
-    "Reversing/VaultDoor3.java",
-    "Reversing/vault-door-1.md",
-    "Reversing/labandera",
-    "Reversing/asm3.md",
-    "Reversing/asm2.md",
-    "Reversing/asm1.md",
-    "Retos Crypto/Retos Crypto Parte 3/Pixelated.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 1/SRA.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 1/Mr-Worldwide.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 1/Flags.md",
+    "Pasted image 20240517171405.png",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 1/flag.png",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 1/C3.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 1/Play Nice.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 1/Vigenere.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 1/substitution1.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 1/substitution0.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 1/morse-code.md",
+    "PicoCTF/Tercer Parcial/Tercer Parcial pt 1/No Padding, No Problem.md",
+    "Reversing/Reversing Parte 3/Need For Speed.md",
+    "Reversing/Reversing Parte 3/reverse_cipher.md",
+    "Reversing/Reversing Parte 3/Safe Opener 2.md",
     "Retos Crypto/Retos Crypto Parte 3/nueva.png",
-    "Retos Crypto/Retos Crypto Parte 3/basic-mod1.md",
-    "Retos Crypto/Retos Crypto Parte 3/HideToSee.md",
-    "Retos Crypto/Retos Crypto Parte 3/Mind your Ps and Qs.md",
-    "Retos Crypto/Retos Crypto Parte 3/ReadMyCert.md",
     "Retos Crypto/Retos Crypto Parte 3/scrambled2.png",
     "Retos Crypto/Retos Crypto Parte 3/scrambled1.png",
     "Retos Crypto/Retos Crypto Parte 3/atbash.jpg",
-    "Retos Crypto/Retos Crypto Parte 2/b00tl3gRSA2.md",
-    "Retos Crypto/13.md",
-    "Retos Crypto/Retos Crypto Parte 2/miniRSA.md",
-    "Retos Crypto/Retos Crypto Parte 2/rsa-pop-quiz.md",
-    "Retos Crypto/Tapping.md",
-    "Retos Crypto/La cifra de.md",
     "Retos Crypto/the_numbers.png",
     "Forensic/Retos Crypto/the_numbers.png",
     "PicoCTF/Segundo Parcial/pico.flag.png",
-    "PicoCTF/Segundo Parcial/drawing.flag.svg",
-    "Forensic/Forensic parte 3/docProps/thumbnail.jpeg",
-    "Forensic/Forensic parte 3/tunn3l_v1s10n.bmp"
+    "PicoCTF/Segundo Parcial/drawing.flag.svg"
   ]
 }
